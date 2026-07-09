@@ -1,4 +1,4 @@
-# Complete-SQL-Power-BI-Project-
+# Complete DATA ANALYSIS -SQL and Power-BI-Project:
 The repository consists of complete Data Analytics Project consisting Sql queries for extracting data insights &amp; Power BI dashboard for visualization purposes.
 
 # PROJECT : SQL PROJECT (Mobile_sales_analysis)
