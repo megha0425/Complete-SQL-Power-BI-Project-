@@ -259,7 +259,7 @@ WHERE
 ### 3. Data Analysis & Findings
 ## Findings
 
-- **Customer Demographics**: The dataset includes customers from various cities, with units sold  sales distributed across different countries having different brands among different mobile models such as Iphone, Samsung, Xiaomi etc.
+- **Customer Demographics**: The dataset includes customers from various cities, with units sold  sales distributed across different cities among different brands and mobile models such as Iphone, Samsung, Xiaomi etc.
 - **High-Value Transactions**: Several transactions had a total sale amount greater than 50,000 Rs., indicating premium purchases on mobiles purchased within certain cities, among different age group of customers ranging among Teenagers, Adult, Young adults.
 - **Sales Trends**: There are certain mobiles  from particular brands having ordered count more than 4 indicating high demand for those mobile models such as Vivo with price range 10,000-25,000, and premium phones such as Samsung and Apple ranging above 50,000.
 - **Customer Insights**: The analysis identifies the top-spending customers and the most popular mobile models based on average customer ratings .
