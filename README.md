@@ -253,10 +253,10 @@ WHERE
     Group By Brand , Ratings_status
     Order By Ratings_count Desc;
 
-### 3. Data Analysis & Findings
-
 -----------END OF THE PROJECT------------
 
+
+### 3. Data Analysis & Findings
 ## Findings
 
 - **Customer Demographics**: The dataset includes customers from various cities, with units sold  sales distributed across different countries having different brands among different mobile models such as Iphone, Samsung, Xiaomi etc.
