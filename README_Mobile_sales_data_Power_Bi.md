@@ -73,12 +73,13 @@ The page structure of dashboard includes 2 pages ie. MTD overview & same period 
 ## Findings
 
 - **Customers Demographics**: The dataset includes customers from various cities across entire India actively purchasing different Brand mobiles among their various category of mobile models.
-- 
+  
 - **Revenue Trends**: There are certain Brands  having particular mobile model such as Iphone, a premium brand having large market share & constant demand among different customers across all regions.
 -  Also brands like Xiaomi & vivo are dealing in both affordable & premium category mobiles having a fair amount of market share as well.
 
 - **Brand Insights**: The analysis identifies the brands summarized on basis of mobile models, their frequent order frequency , sales and profit analysis.
-- **Mobile Sales revenue- YOY revenue is analysed , with the help of DAX functions data is visualized and compared as Today Vs same period last year.
+- 
+- **Mobile Sales revenue**- YOY revenue is analysed , with the help of DAX functions data is visualized and compared as Today Vs same period last year.
     Also revenue  trends are distributed among date heirarchy as well.
 	
 
